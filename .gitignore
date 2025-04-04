@@ -1,0 +1,17 @@
+# ❌ Ignore auto-generated & unnecessary files
+decompiled_apk/
+extracted_xapk/
+__pycache__/
+*.pyc
+*.log
+
+# ❌ Ignore test APKs and tools
+*.apk
+*.xapk
+*.apkm
+jadx-1.5.1/
+jadx-1.5.1.zip
+
+# ❌ Ignore IDE configs
+.idea/
+.vscode/
